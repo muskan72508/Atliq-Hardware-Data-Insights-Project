@@ -1,6 +1,3 @@
-
-
-```markdown
 # Consumer Goods Domain Insights and Ad-hoc Queries
 
 ## Project Overview
@@ -82,10 +79,3 @@ Here are some key business questions addressed in this project:
    - `division`
    - `product_code`
 
-## Presentation
-- [Presentation Video](#)
-- [Presentation Slides](#)
-
-## Dashboard
-- [Power BI Dashboard](#)
-```
